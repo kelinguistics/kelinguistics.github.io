@@ -13,8 +13,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-pagination:
-  enabled: true 
+
 ---
 
 I'm a fifth-year Ph.D. candidate (ABD) studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing Mandarin-English bilinguals and Russian-English bilinguals' **_implicit_** and **_explicit_** perceptual adjustments on VOT boundaries as a function of perceived talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).

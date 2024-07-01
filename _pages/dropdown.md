@@ -4,8 +4,7 @@ title: submenus
 nav: true
 nav_order: 6
 dropdown: true
-pagination:
-  enabled: true 
+
 children:
   - title: publications
     permalink: /publications/
