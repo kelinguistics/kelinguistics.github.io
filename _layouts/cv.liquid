@@ -10,7 +10,7 @@ cv_pdf: "KeLin_CV_July2024.pdf"
       {{ page.title }}
       {% if page.cv_pdf %}
         <a
-          href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+          href="{{ 'assets/pdf/' | append: page.cv_pdf | relative_url }}"
           target="_blank"
           rel="noopener noreferrer"
           class="float-right"
@@ -24,7 +24,7 @@ cv_pdf: "KeLin_CV_July2024.pdf"
     {% if page.cv_pdf %}
       <div class="pdf-embed">
         <iframe
-          src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+          src="{{ 'assets/pdf/' | append: page.cv_pdf | relative_url }}"
           width="100%"
           height="1000px"
           style="border: none;"
@@ -35,3 +35,4 @@ cv_pdf: "KeLin_CV_July2024.pdf"
     {% endif %}
   </article>
 </div>
+
