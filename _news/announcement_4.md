@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [ICPHS](https://www.icphs2023.org/) in Prague 🇨🇿 and presented my poster on Mandarin listeners' perception of English (ING).
+Attended [ICPHS](https://wos2017.webnode.cz/) in Prague 🇨🇿 and presented my poster on Mandarin listeners' perception of English (ING).
