@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kelinguistics.github.io/kelinguistics//sitemap.xml
+Sitemap: https://kelinguistics.github.io//al-folio/sitemap.xml
