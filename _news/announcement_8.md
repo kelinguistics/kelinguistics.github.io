@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813) and presented a poster, *Methods in assessing VOT convergence patterns in L2 English speech*.
+Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813) and presented a poster, _Methods in assessing VOT convergence patterns in L2 English speech_.

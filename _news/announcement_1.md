@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won 2nd place at Georgetown's [Three Minute Thesis (3MT) competition](https://library.georgetown.edu/digital-scholarship/three-minute-thesis-competition)! 
-
+Won 2nd place at Georgetown's [Three Minute Thesis (3MT) competition](https://library.georgetown.edu/digital-scholarship/three-minute-thesis-competition)!
