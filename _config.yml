@@ -196,6 +196,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+    
+news:
+  enabled: true
+  scrollable: true
+  limit: 5
 
 announcements:
   enabled: true
