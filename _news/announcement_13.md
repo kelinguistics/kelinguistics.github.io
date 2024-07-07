@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented some preliminary findings from my ongoing Russian-English social speech perception
-study at [MASC-SLL](https://www.mascsll.org/) at John Hopkins University.
+Presented some preliminary findings from my ongoing project on Russian-English social speech perception study at [MASC-SLL](https://www.mascsll.org/) at John Hopkins University.
