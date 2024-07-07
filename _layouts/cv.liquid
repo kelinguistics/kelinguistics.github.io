@@ -39,7 +39,7 @@ cv_pdf: "KeLin_CV_July2024.pdf"  # This corresponds to page.cv_pdf from cv.md
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">Previous</a>
   {% endif %}
-  
+
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <span>{{ page }}</span>
