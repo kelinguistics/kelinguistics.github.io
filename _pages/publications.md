@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talks & publications/
-title: talks & publications
+permalink: /publications/
+title: publications
 nav: true
 nav_order: 3
 ---
