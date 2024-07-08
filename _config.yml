@@ -253,6 +253,9 @@ exclude:
   - vendor
   - _pages/blog.md
   - _pages/dropdown.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  # projects, teaching removed for now
 
 keep_files:
   - CNAME
