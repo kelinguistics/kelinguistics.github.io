@@ -255,6 +255,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/projects.md
   - _pages/teaching.md
+  - _pages/dropdown.md
   # projects, teaching removed for now
 
 keep_files:
