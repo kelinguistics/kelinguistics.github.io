@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented two projects at [NWAV52] (https://www.nwavmiami.org/): a talk assessing bilinguals' speech processing via VAS and a project launch poster on eye-tracking implicit social speech perception!
+Presented two projects at [NWAV52](https://www.nwavmiami.org/): a talk assessing bilinguals' speech processing via VAS and a project launch poster on eye-tracking implicit social speech perception!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ran my first marathon race with 2024 [EOD] (https://bishopsevents.com/event/2024-eod-warrior-holiday-dash-7k-half-marathon/) from Georgetown!
+Ran my first marathon race with 2024 [EOD](https://bishopsevents.com/event/2024-eod-warrior-holiday-dash-7k-half-marathon/) from Georgetown!
