@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# Force rebuild - Added this comment to trigger GitHub Pages deployment
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ke
