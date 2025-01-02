@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Abstract on VOT convergence accepted as a talk at [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/).
+Abstract on VOT convergence accepted as a talk at PLC48.
