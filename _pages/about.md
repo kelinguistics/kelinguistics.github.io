@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_picture.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a fifth-year Ph.D. candidate (ABD) studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing Mandarin-English bilinguals and Russian-English bilinguals' **_implicit_** and **_explicit_** perceptual adjustments on VOT boundaries as a function of perceived talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to Georgetown, I earned an MA in Slavic Linguistics at The Ohio State University, where I also indepedently taught Russian language courses for two years. My master's thesis investigated the social perceptions of non-native accents in Russian.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Broadly, my research centers on the field of sociophonetics. As a sociophonetician, I explore the intricate relationship between social cues and their impact on both speech perception and production. I am also interested in the phenomenon of speech convergence, the process through which speakers align their speech patterns at various phonetic levels.
+
+Here are some of my other ongoing research projects/interests, varying in scope and development. I welcome proposals for collaboration or discussions on these topics:
+
+- Social speech perception & production among/by L2 speakers;
+- Accessible & affordable eye-tracking methods;
+- Mergers and splits in Sichuan and Dongbei dialects;
+- Semantic clusters and distributions of Russian prepositions
+
