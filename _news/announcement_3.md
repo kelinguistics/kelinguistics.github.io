@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-06-01 - 2023-06-02 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Attended [ViLA5](https://www.vila5.be/) in Brussels🇧🇪 and presented a poster on audience effect on VOT convergence.
