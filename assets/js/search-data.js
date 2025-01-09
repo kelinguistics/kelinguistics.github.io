@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/index.html";
+            window.location.href = "/cv/";
           },
         },{id: "nav-news",
           title: "news",
