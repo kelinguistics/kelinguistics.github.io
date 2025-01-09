@@ -27,4 +27,3 @@ Here are some of my other ongoing research projects/interests, varying in scope 
 - Accessible & affordable eye-tracking methods;
 - Mergers and splits in Sichuan and Dongbei dialects;
 - Semantic clusters and distributions of Russian prepositions
-
