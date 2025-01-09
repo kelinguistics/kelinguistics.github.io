@@ -119,7 +119,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6B%6C%65%38%36%33@%67%65%6F%72%67%65%74%6F%77%6E.%65%64%75", "_blank");
+          window.open("mailto:%6B%6C%38%36%33@%67%65%6F%72%67%65%74%6F%77%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
@@ -148,13 +148,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=gRRbzDMAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
