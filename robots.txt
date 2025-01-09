@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://kelinguistics.github.io/ketest/sitemap.xml
