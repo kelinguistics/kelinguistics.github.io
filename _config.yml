@@ -410,7 +410,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 scholar_userid: gRRbzDMAAAAJ # your Google Scholar ID
 github_username: kelinguistics # your GitHub user name
 gitlab_username: kelinguistics # your GitLab user name
-linkedin_username: kelinguistics # your LinkedIn user name 
+linkedin_username: kelinguistics # your LinkedIn user name
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
