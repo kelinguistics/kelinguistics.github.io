@@ -24,6 +24,7 @@ group :jekyll_plugins do
 end
 group :other_plugins do
     gem 'css_parser'
+    gem 'jekyll-pdf-embed'
     gem 'feedjira'
     gem 'httparty'
     gem 'observer' # used by jekyll-scholar
