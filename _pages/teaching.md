@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 nav_order: 6
@@ -14,6 +14,7 @@ nav_order: 6
 ##### LING 1000: Intro to Language (LING1000)
 
 - Role: GTA & Recitation Instructor
+- Recitation: Friday 10 AM - 10:50 AM, WGR206
 - Office hour: FRI 11:00 AM - 12:00 PM
 - Office: Poulton 241
 
@@ -22,9 +23,8 @@ nav_order: 6
 
 ### Past
 
-<br/>
 #### **Georgetown University**
-##### Teaching Assistant
+##### Graduate Teaching Assistant
 - **SPRING2025** Intro to Language (LING1000) 
 - **SPRING2022** Forensic linguistics (LING402)
 - **FALL2021**  Intro to Language (LING1000)
