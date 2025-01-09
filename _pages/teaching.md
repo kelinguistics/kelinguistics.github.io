@@ -8,17 +8,20 @@ nav_order: 6
 ---
 
 ### Current
+
 #### **Georgetown University**, Spring 2025
+
 ##### LING 1000: Intro to Language (LING1000)
+
 - Role: GTA & Recitation Instructor
 - Office hour: FRI 11:00 AM - 12:00 PM
 - Office: Poulton 241
-
 
 <br/>
 <hr>
 
 ### Past
+
 <br/>
 #### **Georgetown University**
 ##### Teaching Assistant
@@ -30,7 +33,9 @@ nav_order: 6
 <br/>
 
 #### **Ohio State University**
+
 ##### Graduate Teaching Asscioate (Indepedent Instructor)
+
 - **SPRING2019** RUSS 1102
 - **Fall2018** RUSS 1101
 - **SPRING2018** RUSS 1101
