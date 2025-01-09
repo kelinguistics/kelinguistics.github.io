@@ -23,7 +23,7 @@ Broadly, my research centers on the field of sociophonetics. As a sociophonetici
 
 Here are some of my other ongoing research projects/interests, varying in scope and development. I welcome proposals for collaboration or discussions on these topics:
 
-- Social speech perception & production among/by L2 speakers;
+- Socially modulated perception & production among/by L2 speakers;
 - Accessible & affordable eye-tracking methods;
-- Mergers and splits in Sichuan and Dongbei dialects;
+- Individual (cognitive) differences in bilingual speech processing
 - Semantic clusters and distributions of Russian prepositions
