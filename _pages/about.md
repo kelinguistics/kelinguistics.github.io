@@ -15,7 +15,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a fifth-year Ph.D. candidate (ABD) studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing Mandarin-English bilinguals and Russian-English bilinguals' **_implicit_** and **_explicit_** perceptual adjustments on VOT boundaries as a function of perceived talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
+I am a Postdoctoral Fellow in the [Department of Linguistics at Northwestern University](https://linguistics.northwestern.edu/). I work with [Dr. Ann Bradlow](https://faculty.wcas.northwestern.edu/ann-bradlow/) and [Dr. Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) to develop novel bilingual phonetic corpora, conduct perceptual experiments, and apply machine-learning techniques to better understand speech variation and intelligibility across languages. 
+### Current NSF-funded projects include:
+- **_LangDiv: Talker-specific, language-specific, and language-general characteristics of first-language and second-language speech_** — developing a multilingual, publicly available speech corpus (“Hub-and-Spoke Corpus”) to investigate how talker traits, language structure, and bilingual mode jointly shape speech production and perception.  
+
+- **_Enhancing research on speech and deep learning through holistic acoustic analysis_** — advancing unsupervised deep-learning methods for discovering representational spaces of speech, integrating computational and phonetic analyses to model human and machine speech processing.
+
+I received my Ph.D. in Linguistics [Georgetown University] in October 2025(https://linguistics.georgetown.edu/), where I investigated how perceived talker nativeness shapes Mandarin–English and Russian–English bilinguals’ **_implicit_** and **_explicit perceptual_** adjustments to VOT boundaries. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
 
 Before coming to Georgetown, I earned an MA in Slavic Linguistics at The Ohio State University, where I also indepedently taught Russian language courses for two years. My master's thesis investigated the social perceptions of non-native accents in Russian.
 
