@@ -129,6 +129,9 @@ ninja.data = [{
           section: "News",},{id: "news-attending-nwav53-and-two-talks-same-syllable-different-story-talker-guise-modulates-voicing-perception-in-bilinguals-bilinguals-differ-in-weighing-social-and-acoustic-cues-during-l2-speech-processing-evidence-from-eye-tracking-see-the-full-program-here",
           title: 'Attending NWAV53 and two talks: Same Syllable, Different Story: Talker Guise Modulates Voicing...',
           description: "",
+          section: "News",},{id: "news-presenting-a-talk-titled-social-inference-in-pre-lexical-processing-how-speaker-identity-reshapes-phonetic-ambiguity-resolution-in-bilingual-speech-perception-at-lsa2026-annual-meeting",
+          title: 'Presenting a talk titled “Social Inference in Pre-lexical Processing: How Speaker Identity Reshapes...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
